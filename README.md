@@ -1,4 +1,4 @@
-# Testy
+# Quiz
 <p>Testy is a dynamic MCQ assessment application designed to facilitate the creation and management of tests and questions. Developed using the MERN stack, it provides a robust platform for conducting and evaluating multiple-choice assessments efficiently.</p>
 
 <br/>
